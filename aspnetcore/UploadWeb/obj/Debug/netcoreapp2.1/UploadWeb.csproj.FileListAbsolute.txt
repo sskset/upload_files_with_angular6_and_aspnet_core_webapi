@@ -1,0 +1,14 @@
+C:\Users\ske\playground\UploadWeb\UploadWeb\bin\Debug\netcoreapp2.1\UploadWeb.deps.json
+C:\Users\ske\playground\UploadWeb\UploadWeb\bin\Debug\netcoreapp2.1\UploadWeb.runtimeconfig.json
+C:\Users\ske\playground\UploadWeb\UploadWeb\bin\Debug\netcoreapp2.1\UploadWeb.runtimeconfig.dev.json
+C:\Users\ske\playground\UploadWeb\UploadWeb\bin\Debug\netcoreapp2.1\UploadWeb.dll
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.csprojAssemblyReference.cache
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.csproj.CoreCompileInputs.cache
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.RazorAssemblyInfo.cache
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.RazorAssemblyInfo.cs
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.AssemblyInfoInputs.cache
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.AssemblyInfo.cs
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ske\playground\UploadWeb\UploadWeb\bin\Debug\netcoreapp2.1\UploadWeb.pdb
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.dll
+C:\Users\ske\playground\UploadWeb\UploadWeb\obj\Debug\netcoreapp2.1\UploadWeb.pdb
